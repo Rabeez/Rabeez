@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an experienced Data Scientist with multiple projects under my belt covering industry domains from telecom and banking to public sector administration. 
+
+Additionally, since a primary part of my role has been client-facing, I also have experience dealing with technical and non-technical stakeholders both for suggesting problems to investigate analytically and present insights to large groups. 
+
+My focus areas over the years has been consumer analytics (CVM, personalization, marketing attribution, churn etc) and data-driven application design (end-to-end data flows for analytical software solutions). I have also helped develop multiple in-house analytical tools ranging from python libraries for machine learning and purpose-built web scrapping data stores to standalone analytical dashboards using open-source tools like RShiny, plotly-dash, streamlit. 
